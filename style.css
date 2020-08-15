@@ -1,0 +1,27 @@
+body {
+	background-color: coral;
+
+}
+
+h1{
+
+	background-color: gold;
+	color: blue;
+}
+h1:hover{
+
+	color:red;
+}
+
+
+a:hover{
+	border: 20px;
+}
+
+a:visited{
+	color:purple;
+}
+
+a:active{
+	color:green;
+{
